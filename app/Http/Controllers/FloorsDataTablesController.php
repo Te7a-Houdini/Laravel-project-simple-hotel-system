@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-class FloorsController extends Controller
+class FloorsDataTablesController extends Controller
 {
     public function index()
     {
